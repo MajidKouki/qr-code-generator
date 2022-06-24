@@ -44,7 +44,7 @@ If there are no duplicates, the QR code will be created and saved in 'imgs' with
 
 ## Contributors
 
-Brought to you by Majid Kouki
+Brought to you by Majid Kouki. You can reach me at [majidkpy@gmail.com](mailto:majidkpy@gmail.com).
 
 ---
 
