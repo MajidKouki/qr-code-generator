@@ -40,6 +40,10 @@ The user will be prompted to enter the data to be included in the QR code and a 
 
 If there are no duplicates, the QR code will be created and saved in 'imgs' with the filename given.
 
+Example output shown below.
+
+<img src="./imgs/Example.png" alt="Example QR Code" width="200" height="200">
+
 ---
 
 ## Contributors
