@@ -36,7 +36,9 @@ To use this application, simply clone the repository and run **app.py**
 python app.py
 ```
 
-The user will be prompted to enter the data to be included in the QR code and a filename with extension.
+The user will be prompted to enter the data to be included in the QR code and a filename with extension. Example below.
+
+<img src="./imgs/usage.jpeg" alt="CLI Example" width="1000" height="50">
 
 If there are no duplicates, the QR code will be created and saved in 'imgs' with the filename given.
 
